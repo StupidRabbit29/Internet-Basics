@@ -26,7 +26,7 @@
   * [3-1 保護密碼](chapter-3/3-1.md)
   * [3-2 資料加密](chapter-3/3-2.md)
   * [3-3 防火牆](chapter-3/3-3.md)
-* [結語](summary.md)
+* [結語](summarys.md)
 * [附錄1](dlc-1.md)
 * [附錄2](dlc-2.md)
 
